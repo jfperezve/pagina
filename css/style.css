@@ -1,6 +1,6 @@
 .bg-primary {
 	background-color:#005883 !important;
-	background-image: url("/images/unad.png");
+	background-image: url("./images/unad.png");
 	background-position:top left;
 	background-size: contain;
 	background-repeat: no-repeat;
