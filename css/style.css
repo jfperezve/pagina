@@ -1,11 +1,11 @@
 .bg-primary {
 	background-color:#005883 !important;
-	background-image: url("./images/unad.png");
+	background-image: url("/images/unad.png");
 	background-position:top left;
 	background-size: contain;
 	background-repeat: no-repeat;
-	height:100px;
-	padding-left:130px;
+	height:70px;
+	padding-left:90px;
 }
 @media all and (max-width:1200px) {
 	body {
@@ -22,7 +22,7 @@
 }
 section {
 	
-	padding-top: 90px;
+	padding-top: 80px;
 	padding-left: 8px;
 	padding-right: 8px;
 
@@ -58,11 +58,11 @@ section {
 	align-content: flex-start;	
 	padding-top: 2px;
 	}
-#refe{
 
+#img{
+	padding-top: 5px;
 	text-align: center;
 }
-
 	
 footer{
 	text-align: center;
